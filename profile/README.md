@@ -1,3 +1,5 @@
+<img src="https://github.com/caolanmaguire/calsickofthis/blob/main/Copy%20of%20COMPUTAT%20(2).png" alt="Image description" style="width: 100%;">
+
 # 🚗 Back Seat Driver
 
 **An AI-driven telematics platform to enhance driver efficiency and safety.**  
